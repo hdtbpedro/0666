@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 gunicorn
-opencv-python-headless
 pytesseract
+opencv-python-headless
 numpy
+python-multipart
